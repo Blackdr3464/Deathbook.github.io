@@ -1,0 +1,8 @@
+p.css{
+    font-size: 200px;
+    color: red;
+    font: normal 48px/normal "Dynalight", Helvetica, sans-serif;
+    text-shadow: 0px 0px 15px black;
+    text-align: center;
+    text-overflow: clip;
+}
